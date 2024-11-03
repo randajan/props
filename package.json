@@ -1,6 +1,6 @@
 {
   "name": "@randajan/props",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Lightweight JavaScript library that simplifies working with Object.defineProperty and Object.defineProperties. It provides intuitive, easy-to-use functions for defining solid, virtual, safe, and cached properties on objects. With this library, you can manage object properties more efficiently, using less code and achieving better readability.",
   "repository": "randajan/props",
   "type": "module",
