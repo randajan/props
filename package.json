@@ -1,0 +1,35 @@
+{
+  "name": "@randajan/props",
+  "version": "0.0.1",
+  "description": "Lightweight JavaScript library that simplifies working with Object.defineProperty and Object.defineProperties. It provides intuitive, easy-to-use functions for defining solid, virtual, safe, and cached properties on objects. With this library, you can manage object properties more efficiently, using less code and achieving better readability.",
+  "repository": "randajan/props",
+  "type": "module",
+  "main": "dist/index.js",
+  "module": "dist/index.js",
+  "exports": {
+    ".": "./dist/index.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@randajan/simple-lib": "^2.3.2"
+  },
+  "devDependencies": {},
+  "files": [
+    "dist",
+    "README.md",
+    "LICENSE"
+  ],
+  "keywords": [
+    "webdev",
+    "tool"
+  ],
+  "homepage": "https://github.com/randajan/props",
+  "bugs": {
+    "url": "https://github.com/randajan/props/issues"
+  },
+  "author": {
+    "name": "Jan Randa",
+    "email": "jnranda@gmail.com",
+    "url": "https://www.linkedin.com/in/randajan/"
+  }
+}
