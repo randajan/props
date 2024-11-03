@@ -2,7 +2,7 @@
 
 [![NPM](https://img.shields.io/npm/v/@randajan/props.svg)](https://www.npmjs.com/package/@randajan/props) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
-This package boost react page development.
+Lightweight JavaScript library that simplifies working with Object.defineProperty and Object.defineProperties. It provides intuitive, easy-to-use functions for defining solid, virtual, safe, and cached properties on objects. With this library, you can manage object properties more efficiently, using less code and achieving better readability.
 
 ## Install
 
