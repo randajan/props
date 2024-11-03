@@ -114,7 +114,7 @@ cached(myObject, priv, 'lazyProp',
 
 ```
 
-
+Happy hacking
 
 ## License
 
