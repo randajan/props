@@ -10,10 +10,10 @@
     ".": "./dist/index.js"
   },
   "license": "MIT",
-  "dependencies": {
-    "@randajan/simple-lib": "^2.3.2"
+  "dependencies": {},
+  "devDependencies": {
+    "@randajan/simple-lib": "^2.4.0"
   },
-  "devDependencies": {},
   "files": [
     "dist",
     "README.md",
