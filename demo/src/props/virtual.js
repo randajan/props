@@ -1,4 +1,4 @@
-import { virtual, virtuals } from "../../../dist";
+import { virtual, virtuals } from "../../../dist/esm/index.mjs";
 
 
 export const testVirtual = () => {

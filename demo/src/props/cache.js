@@ -1,4 +1,4 @@
-import { cached, cacheds } from "../../../dist";
+import { cached, cacheds } from "../../../dist/esm/index.mjs";
 
 export const testCached = () => {
     const obj = {};

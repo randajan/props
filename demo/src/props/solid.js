@@ -1,4 +1,4 @@
-import { solid, solids } from "../../../dist";
+import { solid, solids } from "../../../dist/esm/index.mjs";
 
 
 export const testSolid = () => {

@@ -1,4 +1,4 @@
-import { safe, safes } from "../../../dist";
+import { safe, safes } from "../../../dist/esm/index.mjs";
 
 
 export const testSafe = () => {
